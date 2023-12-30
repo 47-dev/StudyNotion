@@ -34,7 +34,9 @@ Here is a high-level diagram that illustrates the architecture of the StudyNotio
 
  
 Front-end
-The front end is part of the platform that the user interacts with. It's like the "face" of the platform that the user sees and interacts with. The front end of StudyNotion is designed using a tool called Figma, which is a popular design tool that allows for the creation of clean and minimal user interfaces. You can take a look at the Figma design for the StudyNotion front-end by following this link: https://www.figma.com/file/Mikd0FjHKAofUlWQSi70nf/StudyNotion_shared.
+The front end is part of the platform that the user interacts with. It's like the "face" of the platform that the user sees and interacts with. The front end of StudyNotion is designed using a tool called Figma, which is a popular design tool that allows for the creation of clean and minimal user interfaces. 
+<!---You can take a look at the Figma design for the StudyNotion front-end by following this link: 
+https://www.figma.com/file/Mikd0FjHKAofUlWQSi70nf/StudyNotion_shared-->
 The front end of StudyNotion has all the necessary pages that an ed-tech platform should have. Some of these pages are:
 For Students:
 −	Homepage: This page will have a brief introduction to the platform, as well as links to the course list and user details.
