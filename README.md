@@ -1,6 +1,8 @@
 # StudyNotion
 ![image](https://github.com/47-dev/StudyNotion/assets/79639577/0d61be6d-4414-46af-a309-b61b4ceffb17)
 # AN ED-TECH PLATFORM
+
+
 # Project Description
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 StudyNotion aims to provide:
@@ -24,9 +26,12 @@ Back-end
 The back end of the platform is built using NodeJS and ExpressJS, which are popular frameworks for building scalable and robust server-side applications. The back end provides APIs for the front end to consume, which include functionalities such as user authentication, course creation, and course consumption. The back end also handles the logic for processing and storing the course content and user data.
 Database
 The database for the platform is built using MongoDB, which is a NoSQL database that provides a flexible and scalable data storage solution. MongoDB allows for the storage of unstructured and semi-structured data, which is useful for storing course content such as videos, images, and PDFs. The database stores the course content, user data, and other relevant information related to the platform.
-Architecture Diagram
+
+# Architecture Diagram
 Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech platform:
- 
+
+ ![image](https://github.com/47-dev/StudyNotion/assets/79639577/5673dc8f-9f9d-48d4-b1ef-5804db5c8634)
+
  
 Front-end
 The front end is part of the platform that the user interacts with. It's like the "face" of the platform that the user sees and interacts with. The front end of StudyNotion is designed using a tool called Figma, which is a popular design tool that allows for the creation of clean and minimal user interfaces. You can take a look at the Figma design for the StudyNotion front-end by following this link: https://www.figma.com/file/Mikd0FjHKAofUlWQSi70nf/StudyNotion_shared.
